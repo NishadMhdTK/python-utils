@@ -11,7 +11,7 @@ this class has methods 5 methods as below.
 
 To set the url you want to search.
 
-*set_method*
+**set_method**
 
 To set the request method you want to use 1 for GET, 2 for POST.
 
